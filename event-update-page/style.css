@@ -1,0 +1,9 @@
+.button {
+    margin-bottom: 10px;
+}
+
+@media (min-width: 1200px) {
+    .main-cont {
+        margin: 0 200px;
+    }
+}
